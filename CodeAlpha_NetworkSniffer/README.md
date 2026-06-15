@@ -17,6 +17,20 @@ A Python-based network sniffer that captures and analyzes network traffic in rea
 - Tkinter
 
 ## ▶ How to Run
+## 📷 Screenshots
+
+### ▶ Start Dashboard
+![Start](Tasks-CodeAlpha/CodeAlpha_NetworkSniffer/img/start.png)
+
+---
+
+### 📊 Capturing & Analyzing Packets
+![Capture](Tasks-CodeAlpha/CodeAlpha_NetworkSniffer/img/capture_analyzing.png)
+
+---
+
+### 🔍 Filtering & Search Feature
+![Filter](Tasks-CodeAlpha/CodeAlpha_NetworkSniffer/img/filter.png)
 ```bash
 pip install scapy
 python sniffer.py
