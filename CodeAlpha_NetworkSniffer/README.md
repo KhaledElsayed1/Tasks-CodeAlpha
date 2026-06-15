@@ -20,7 +20,7 @@ A Python-based network sniffer that captures and analyzes network traffic in rea
 ## 📷 Screenshots
 
 ### ▶ Start Dashboard
-![Start](Tasks-CodeAlpha/CodeAlpha_NetworkSniffer/img/start.png)
+![Start](CodeAlpha_NetworkSniffer/img/start.png)
 
 ---
 
