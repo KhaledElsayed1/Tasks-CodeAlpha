@@ -25,12 +25,12 @@ A Python-based network sniffer that captures and analyzes network traffic in rea
 ---
 
 ### 📊 Capturing & Analyzing Packets
-![Capture](Tasks-CodeAlpha/CodeAlpha_NetworkSniffer/img/capture_analyzing.png)
+![Capture](/CodeAlpha_NetworkSniffer/img/capture_analyzing.png)
 
 ---
 
 ### 🔍 Filtering & Search Feature
-![Filter](Tasks-CodeAlpha/CodeAlpha_NetworkSniffer/img/filter.png)
+![Filter](/CodeAlpha_NetworkSniffer/img/filter.png)
 ```bash
 pip install scapy
 python sniffer.py
